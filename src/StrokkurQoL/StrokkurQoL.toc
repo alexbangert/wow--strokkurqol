@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: StrokkurQoL
+## Notes: Persönliche Quality-of-Life-Einstellungen
+## Author: Strokkur
+## Version: 0.1.0
+## SavedVariables: StrokkurQoLDB
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+## AddonCompartmentFunc: StrokkurQoL_OnAddonCompartmentClick
+
+Core.lua
+Modules\AutoRepair.lua
+Modules\SellJunk.lua
+Modules\HidePlayerFrame.lua
+Options.lua
